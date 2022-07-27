@@ -37,6 +37,7 @@
 		FDDBE6062889ED9C000F96AF = {
 			isa = PBXGroup;
 			children = (
+				FD3AE9D428910E7000447A1A /* README.md */,
 				FDDBE6112889ED9C000F96AF /* Units */,
 				FDDBE6102889ED9C000F96AF /* Products */,
 			);
@@ -53,7 +54,6 @@
 		FDDBE6112889ED9C000F96AF /* Units */ = {
 			isa = PBXGroup;
 			children = (
-				FD3AE9D428910E7000447A1A /* README.md */,
 				FDDBE6122889ED9C000F96AF /* UnitsApp.swift */,
 				FDDBE6142889ED9C000F96AF /* ContentView.swift */,
 				FDDBE6162889ED9D000F96AF /* Assets.xcassets */,
